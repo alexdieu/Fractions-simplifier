@@ -6,4 +6,4 @@ n = float(n)
 v = float(v)
 g = float(g)
 r = (n/v)*g
-print("ca fait %s/%s" % (r,g))
+print("result %s/%s" % (r,g))
